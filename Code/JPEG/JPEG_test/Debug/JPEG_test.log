@@ -1,0 +1,15 @@
+﻿  JPEG_test.c
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(48,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(51,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(56,173): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(229,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(232,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(234,156): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(235,64): warning C4244: '=': 'float'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(264,62): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(279,53): warning C4047: '함수': 'unsigned char **'의 간접 참조 수준이 'unsigned char [256][256]'과(와) 다릅니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(279,46): warning C4024: 'MSE': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(279,62): warning C4047: '함수': 'unsigned char **'의 간접 참조 수준이 'unsigned char [256][256]'과(와) 다릅니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(279,55): warning C4024: 'MSE': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\JPEG_test\JPEG_test.c(279,12): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+  JPEG_test.vcxproj -> C:\Users\deep\Desktop\JunYoung\Code\JPEG\Code\JPEG\Debug\JPEG_test.exe

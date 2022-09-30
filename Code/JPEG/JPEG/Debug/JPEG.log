@@ -1,0 +1,20 @@
+﻿  jpeg.c
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(45,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(48,41): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(53,173): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(63,21): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(76,15): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(76,18): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(130,15): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(130,18): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(183,21): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(206,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(209,49): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(211,156): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(248,62): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(274,53): warning C4047: '함수': 'unsigned char **'의 간접 참조 수준이 'unsigned char [512][512]'과(와) 다릅니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(274,46): warning C4024: 'MSE': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(274,62): warning C4047: '함수': 'unsigned char **'의 간접 참조 수준이 'unsigned char [512][512]'과(와) 다릅니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(274,55): warning C4024: 'MSE': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\deep\Desktop\JPEG\Code\JPEG\JPEG\jpeg.c(274,12): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+  JPEG.vcxproj -> C:\Users\deep\Desktop\JPEG\Code\JPEG\Debug\JPEG.exe
