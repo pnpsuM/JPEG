@@ -120,7 +120,7 @@ void ZigZag() {
             }
         }
     }
-    printf("Zig-Zag Scanning\n");
+    printf("Zig-Zag Scanning\n\n");
 }
 void BZigZag() {
     int i, j, y, x, m = 0;
